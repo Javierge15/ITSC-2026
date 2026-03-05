@@ -2,6 +2,9 @@
 
 This repository contains experimental data, evaluation metrics, and documentation associated with a study on vehicle teleoperation. The project focuses on how predictive visual aids can reduce the negative effects of network delay during remote driving.
 
+## SYSTEM DEMONSTRATION
+<video src="MEDIA/TELEOP.mp4" width="100%" autoplay loop muted playsinline></video>
+
 ## RESEARCH FOCUS
 We collected teleoperation data from ten participants with different backgrounds in driving and gaming. Operators controlled the KALIPSO research vehicle on a physical test track in Madrid, Spain, while we measured driving accuracy and mental workload using the NASA Task Load Index. 
 
